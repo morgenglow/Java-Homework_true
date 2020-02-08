@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: lesson4.Main
+Class-Path: sqlite-jdbc-3.28.0.jar
+
